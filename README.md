@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Student | Backend Developer | Security Researcher-in-Training</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;IT+Intern+%40+Webart+Technology;Backend+Dev+%7C+Django+%2F+FastAPI+%2F+Flask;CTF+Player+%7C+Web+Exploitation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Backend+Dev+%7C+Django+%2F+FastAPI+%2F+Flask;CTF+Player+%7C+Web+Exploitation+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
