@@ -14,7 +14,6 @@
 - 🔐 Deep interest in **web exploitation, malware analysis, and network security**
 - 🧪 Final year project: **keystroke dynamics behavioral authentication** using SVM/LSTM
 - 🌐 Built and run a live web tool: **[informertool.in](https://informertool.in)**
-- 📍 Based in Kolkata, India
 
 ---
 
@@ -23,7 +22,6 @@
 - Building backend system projects and learning about new system architechtures. 
 - Participating in **CTF competitions** across multiple platforms (HackTheBox, PortSwigger Web Security Academy, Damn Vulnerable RESTaurant)
 - Exploring **SDN & network security research**, including fileless malware C2 detection over SDN
-- Building interactive, dark-themed learning resources for courses like Malware Analysis, Computer Networking, and Cyber Forensics
 - Open to **open source security tooling** contributions
 
 ---
